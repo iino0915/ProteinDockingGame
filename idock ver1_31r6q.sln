@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_31r6q", "idock ver1_31r6q.csproj", "{A22440BC-F766-D2B1-4A12-F2CB19D0DDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_31r6q.Plugins", "idock ver1_31r6q.Plugins.csproj", "{8D7795B1-CFD0-8351-CFD7-3B492F98B4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_31r6q.Editor.Plugins", "idock ver1_31r6q.Editor.Plugins.csproj", "{BCBECEE5-09F9-0BA0-0563-F7441C7956E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22440BC-F766-D2B1-4A12-F2CB19D0DDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22440BC-F766-D2B1-4A12-F2CB19D0DDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22440BC-F766-D2B1-4A12-F2CB19D0DDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22440BC-F766-D2B1-4A12-F2CB19D0DDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7795B1-CFD0-8351-CFD7-3B492F98B4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7795B1-CFD0-8351-CFD7-3B492F98B4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7795B1-CFD0-8351-CFD7-3B492F98B4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7795B1-CFD0-8351-CFD7-3B492F98B4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBECEE5-09F9-0BA0-0563-F7441C7956E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBECEE5-09F9-0BA0-0563-F7441C7956E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBECEE5-09F9-0BA0-0563-F7441C7956E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBECEE5-09F9-0BA0-0563-F7441C7956E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

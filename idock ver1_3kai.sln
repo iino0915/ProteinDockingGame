@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_3kai", "idock ver1_3kai.csproj", "{91B8B539-2DCB-785F-FB98-B4DEB59F55F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_3kai.Plugins", "idock ver1_3kai.Plugins.csproj", "{A6F0E487-B3D2-0987-47B3-44E610793722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idock ver1_3kai.Editor.Plugins", "idock ver1_3kai.Editor.Plugins.csproj", "{8E3BAB9F-DBFE-21A8-F53D-B3EB92329320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B8B539-2DCB-785F-FB98-B4DEB59F55F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B8B539-2DCB-785F-FB98-B4DEB59F55F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B8B539-2DCB-785F-FB98-B4DEB59F55F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B8B539-2DCB-785F-FB98-B4DEB59F55F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F0E487-B3D2-0987-47B3-44E610793722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F0E487-B3D2-0987-47B3-44E610793722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F0E487-B3D2-0987-47B3-44E610793722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F0E487-B3D2-0987-47B3-44E610793722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3BAB9F-DBFE-21A8-F53D-B3EB92329320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3BAB9F-DBFE-21A8-F53D-B3EB92329320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3BAB9F-DBFE-21A8-F53D-B3EB92329320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3BAB9F-DBFE-21A8-F53D-B3EB92329320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
